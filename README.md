@@ -1,4 +1,4 @@
-### Hi I'm Malek  👋 :computer: :developpement:
+### Hi I'm Malek  👋 :computer: :girl:
 
 
 
