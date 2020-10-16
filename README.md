@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning .....
 - 🤔 I’m looking for help with ...
 - ⚡&nbsp;&nbsp;Fun fact: ...
-  🧠 learning
-  💜 loving
+- 🧠 learning
+- 💜 loving
 
 
