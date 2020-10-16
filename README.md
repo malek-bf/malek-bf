@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-        Hi I'm Malek  👋 :women_computer: 
+        Hi I'm Malek  👋 :women_developer: 
    </samp>
   <br><br>
 </p>
