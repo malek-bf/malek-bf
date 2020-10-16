@@ -8,11 +8,11 @@
 
 ### About myself
 
+- 🧠&nbsp;&nbsp;learning
 - 🔭&nbsp;&nbsp;I’m currently working on 
-- 🌱 I’m currently learning .....
-- 🤔 I’m looking for help with ...
+- 🤔&nbsp;&nbsp;I’m looking for help with ...
+- 🧠&nbsp;&nbsp;learning
+- 💜&nbsp;&nbsp;loving
 - ⚡&nbsp;&nbsp;Fun fact: ...
-- 🧠 learning
-- 💜 loving
 
 
