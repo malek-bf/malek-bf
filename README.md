@@ -6,7 +6,7 @@
   <br>
 </p>
 
-### About myself
+### About me
 
 - 🧠&nbsp;&nbsp;learning
 - 🔭&nbsp;&nbsp;I’m currently working on 
