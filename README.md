@@ -12,7 +12,7 @@
 - 🔭&nbsp;&nbsp;I’m currently working on 
 - 🤔&nbsp;&nbsp;I’m looking for help with ...
 - 🧠&nbsp;&nbsp;learning
-- 💜&nbsp;&nbsp;loving
+- 💜&nbsp;&nbsp;loving [python] [python]
 - ⚡&nbsp;&nbsp;Fun fact: ...
 
 <details>
