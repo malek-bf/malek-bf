@@ -12,7 +12,7 @@
 - 🔭&nbsp;&nbsp;I’m currently working on 
 - 🤔&nbsp;&nbsp;I’m looking for help with ...
 - 🧠&nbsp;&nbsp;learning
-- 💜&nbsp;&nbsp;loving [python][python]
+- 💜&nbsp;&nbsp;loving [python][python], [sql][sql], [tableau][tableau], [pandas][pandas]
 - ⚡&nbsp;&nbsp;Fun fact: ...
 
 <details>
@@ -21,4 +21,7 @@
 </details>
 
 [python]: https://www.python.org/
+[sql]: https://www.sql.org/
+[tableau]: https://www.tableau.com/
+[pandas]: https://pandas.pydata.org/
 
