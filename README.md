@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Malek (Software developer)</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Malek (Software developer)</h1>
 <h3 align="center">A very passionate developer since i discovered the universe of coding</h3>
 <p align="center">
 
@@ -9,13 +9,13 @@
 ### About me
 
 - 🧠&nbsp;&nbsp;learning everything i could about data analytics
-- 🔭&nbsp;&nbsp;I’m currently working on some cool stuff
+- 🌱&nbsp;&nbsp;I’m currently working on some cool stuff
 - 💜&nbsp;&nbsp;loving [python][python], [sql][sql], [tableau][tableau], [pandas][pandas]
 - ⚡&nbsp;&nbsp;Fun fact i wish if i had magical powers
 
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
-  hi
+  
 </details>
 
 [python]: https://www.python.org/
