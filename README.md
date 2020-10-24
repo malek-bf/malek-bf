@@ -14,7 +14,9 @@
 - ⚡&nbsp;&nbsp;Fun fact i wish if i had magical powers
 
 <details>
-  <summary><b>:telescope: 2020 goal</b></summary>
+  <summary><b>:telescope: Futur goals</b></summary>
+  
+  
   
 </details>
 
