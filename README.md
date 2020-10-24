@@ -15,4 +15,8 @@
 - 💜&nbsp;&nbsp;loving
 - ⚡&nbsp;&nbsp;Fun fact: ...
 
+<details>
+  <summary><b>:telescope: 2020 goal</b></summary>
+  hi
+</details>
 
