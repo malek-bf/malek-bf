@@ -13,12 +13,7 @@
 - 💜&nbsp;&nbsp;loving [python][python], [sql][sql], [tableau][tableau], [pandas][pandas]
 - ⚡&nbsp;&nbsp;Fun fact i wish if i had magical powers
 
-<details>
-  <summary><b>:telescope: Futur goals</b></summary>
-  
-  
-  
-</details>
+> 
 
 [python]: https://www.python.org/
 [sql]: https://www.sql.org/
