@@ -8,12 +8,10 @@
 
 ### About me
 
-- 🧠&nbsp;&nbsp;learning
-- 🔭&nbsp;&nbsp;I’m currently working on 
-- 🤔&nbsp;&nbsp;I’m looking for help with ...
-- 🧠&nbsp;&nbsp;learning
+- 🧠&nbsp;&nbsp;learning everything i could about data analytics
+- 🔭&nbsp;&nbsp;I’m currently working on some cool stuff
 - 💜&nbsp;&nbsp;loving [python][python], [sql][sql], [tableau][tableau], [pandas][pandas]
-- ⚡&nbsp;&nbsp;Fun fact: ...
+- ⚡&nbsp;&nbsp;Fun fact i wish if i had magical powers
 
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
