@@ -48,5 +48,5 @@
 [pandas]: https://pandas.pydata.org/
 [github]: https://github.com/malek-bf/
 [instagram]: https://www.instagram.com/malekbenfriha/
-[email]:https://www.gmail.com/malek.benfriha@gmail.com
+[email]:https://www.malek.benfriha@gmail.com/
 
