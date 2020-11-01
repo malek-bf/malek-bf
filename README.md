@@ -18,6 +18,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
 <br/>
 <br/>
+
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/malek-bf/malek-bf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malek-bf&hide=java,&theme=dracula" />
