@@ -13,6 +13,10 @@
 - 💜&nbsp;&nbsp;loving [python][python], [sql][sql], [tableau][tableau], [pandas][pandas]
 - ⚡&nbsp;&nbsp;Fun fact i wish if i had magical powers
 
+### Connect with me:
+[<img align="left" alt="malekbenfriha | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="malekbenfriha| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 ### Languages and Tools:
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
@@ -41,4 +45,6 @@
 [sql]: https://www.sql.org/
 [tableau]: https://www.tableau.com/
 [pandas]: https://pandas.pydata.org/
+[github]: https://github.com/malek-bf/
+[instagram]: https://www.instagram.com/malekbenfriha/
 
