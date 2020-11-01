@@ -16,6 +16,7 @@
 ### Connect with me:
 [<img align="left" alt="malekbenfriha | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="malekbenfriha| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="malekbenfriha| Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 <br/>
 ### Languages and Tools:
 <p align="left">
@@ -47,4 +48,5 @@
 [pandas]: https://pandas.pydata.org/
 [github]: https://github.com/malek-bf/
 [instagram]: https://www.instagram.com/malekbenfriha/
+[email]:https://www.gmail.com/malek.benfriha@gmail.com
 
