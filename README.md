@@ -26,7 +26,6 @@
 
  </p>
 <br/>
-
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/malek-bf/malek-bf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malek-bf&hide=java,&theme=dracula" />
