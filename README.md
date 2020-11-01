@@ -15,7 +15,7 @@
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/malek-bf/malek-bf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malek-bf&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malek-bf&hide=java,&theme=dracula" />
 </a>
 <a href="https://github.com/malek-bf/malek-bf">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=malek-bf&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues" />
