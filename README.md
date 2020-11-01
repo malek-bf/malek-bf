@@ -13,7 +13,9 @@
 - 💜&nbsp;&nbsp;loving [python][python], [sql][sql], [tableau][tableau], [pandas][pandas]
 - ⚡&nbsp;&nbsp;Fun fact i wish if i had magical powers
 
->
+>I'm a software developer who is very passionate about learning new things and challenging myself.
+what i love the most about coding that it feels like i'm worrking a new job everyday, there is
+always something new to leran and to discover.
 
 ### Connect with me:
 [<img align="left" alt="malekbenfriha | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
