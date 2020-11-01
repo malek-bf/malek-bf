@@ -13,6 +13,8 @@
 - 💜&nbsp;&nbsp;loving [python][python], [sql][sql], [tableau][tableau], [pandas][pandas]
 - ⚡&nbsp;&nbsp;Fun fact i wish if i had magical powers
 
+>
+
 ### Connect with me:
 [<img align="left" alt="malekbenfriha | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="malekbenfriha| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
