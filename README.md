@@ -15,9 +15,9 @@
 
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <br/>
 <br/>
-
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/malek-bf/malek-bf">
