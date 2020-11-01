@@ -13,7 +13,13 @@
 - 💜&nbsp;&nbsp;loving [python][python], [sql][sql], [tableau][tableau], [pandas][pandas]
 - ⚡&nbsp;&nbsp;Fun fact i wish if i had magical powers
 
-### 📊 GitHub Stats
+### &#x1f4c8; GitHub Stats
+<a href="https://github.com/malek-bf/malek-bf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malek-bf&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+
 
 [python]: https://www.python.org/
 [sql]: https://www.sql.org/
