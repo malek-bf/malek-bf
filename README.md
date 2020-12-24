@@ -51,6 +51,6 @@ always something new to leran and to discover.
 [pandas]: https://pandas.pydata.org/
 [github]: https://github.com/malek-bf/
 [instagram]: https://www.instagram.com/malekbenfriha/
-[email]:https://www.malek.benfriha@gmail.com/
-[tableau]:https://public.tableau.com/profile/malek6827#!/
+[email]:mailto:malek.benfriha@gmail.com/
+[tableau]:https://public.tableau.com/profile/malek6827/
 
