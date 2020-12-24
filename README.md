@@ -17,7 +17,7 @@ always something new to leran and to discover.
 [<img align="left" alt="malekbenfriha | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="malekbenfriha| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="malekbenfriha| Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="malekbenfriha| tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/iconstableau.svg" />][tableau]
+[<img align="left" alt="malekbenfriha| tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
 <br/>
 ### Languages and Tools:
 <p align="left">
